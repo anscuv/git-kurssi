@@ -1,0 +1,4 @@
+#this is .gitignore
+*.in
+*.out
+*.pyc
